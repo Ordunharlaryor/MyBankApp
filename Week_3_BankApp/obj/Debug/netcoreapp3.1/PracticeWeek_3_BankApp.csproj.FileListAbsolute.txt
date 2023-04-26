@@ -1,0 +1,17 @@
+C:\Users\Decagon\Desktop\MY_TASKS\week-3-Ordunharlaryor\Week_3_BankApp\Week_3_BankApp\bin\Debug\netcoreapp3.1\PracticeWeek_3_BankApp.exe
+C:\Users\Decagon\Desktop\MY_TASKS\week-3-Ordunharlaryor\Week_3_BankApp\Week_3_BankApp\bin\Debug\netcoreapp3.1\PracticeWeek_3_BankApp.deps.json
+C:\Users\Decagon\Desktop\MY_TASKS\week-3-Ordunharlaryor\Week_3_BankApp\Week_3_BankApp\bin\Debug\netcoreapp3.1\PracticeWeek_3_BankApp.runtimeconfig.json
+C:\Users\Decagon\Desktop\MY_TASKS\week-3-Ordunharlaryor\Week_3_BankApp\Week_3_BankApp\bin\Debug\netcoreapp3.1\PracticeWeek_3_BankApp.runtimeconfig.dev.json
+C:\Users\Decagon\Desktop\MY_TASKS\week-3-Ordunharlaryor\Week_3_BankApp\Week_3_BankApp\bin\Debug\netcoreapp3.1\PracticeWeek_3_BankApp.dll
+C:\Users\Decagon\Desktop\MY_TASKS\week-3-Ordunharlaryor\Week_3_BankApp\Week_3_BankApp\bin\Debug\netcoreapp3.1\PracticeWeek_3_BankApp.pdb
+C:\Users\Decagon\Desktop\MY_TASKS\week-3-Ordunharlaryor\Week_3_BankApp\Week_3_BankApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Decagon\Desktop\MY_TASKS\week-3-Ordunharlaryor\Week_3_BankApp\Week_3_BankApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Decagon\Desktop\MY_TASKS\week-3-Ordunharlaryor\Week_3_BankApp\Week_3_BankApp\obj\Debug\netcoreapp3.1\PracticeWeek_3_BankApp.csproj.AssemblyReference.cache
+C:\Users\Decagon\Desktop\MY_TASKS\week-3-Ordunharlaryor\Week_3_BankApp\Week_3_BankApp\obj\Debug\netcoreapp3.1\PracticeWeek_3_BankApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decagon\Desktop\MY_TASKS\week-3-Ordunharlaryor\Week_3_BankApp\Week_3_BankApp\obj\Debug\netcoreapp3.1\PracticeWeek_3_BankApp.AssemblyInfoInputs.cache
+C:\Users\Decagon\Desktop\MY_TASKS\week-3-Ordunharlaryor\Week_3_BankApp\Week_3_BankApp\obj\Debug\netcoreapp3.1\PracticeWeek_3_BankApp.AssemblyInfo.cs
+C:\Users\Decagon\Desktop\MY_TASKS\week-3-Ordunharlaryor\Week_3_BankApp\Week_3_BankApp\obj\Debug\netcoreapp3.1\PracticeWeek_3_BankApp.csproj.CoreCompileInputs.cache
+C:\Users\Decagon\Desktop\MY_TASKS\week-3-Ordunharlaryor\Week_3_BankApp\Week_3_BankApp\obj\Debug\netcoreapp3.1\PracticeWeek_3_BankApp.csproj.CopyComplete
+C:\Users\Decagon\Desktop\MY_TASKS\week-3-Ordunharlaryor\Week_3_BankApp\Week_3_BankApp\obj\Debug\netcoreapp3.1\PracticeWeek_3_BankApp.dll
+C:\Users\Decagon\Desktop\MY_TASKS\week-3-Ordunharlaryor\Week_3_BankApp\Week_3_BankApp\obj\Debug\netcoreapp3.1\PracticeWeek_3_BankApp.pdb
+C:\Users\Decagon\Desktop\MY_TASKS\week-3-Ordunharlaryor\Week_3_BankApp\Week_3_BankApp\obj\Debug\netcoreapp3.1\PracticeWeek_3_BankApp.genruntimeconfig.cache

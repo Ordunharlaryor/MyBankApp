@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "0e1Lps+YqbcNs24RJ4MAgYe86LcCwSm5u4omjN8o6Li7Y4sqNDAtRl4fmM+zwko61JJYN47ng2cE4cm7ijzvag==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DELL\\Documents\\MY_TASKS\\Week_3_ BankApp\\Week_3_BankApp\\Week_3_BankApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.32\\microsoft.extensions.dependencyinjection.3.1.32.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.32\\microsoft.extensions.dependencyinjection.abstractions.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
